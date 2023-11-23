@@ -1,31 +1,31 @@
 import notes from "../assets/notes.jpeg";
-import AI from "../assets/AI.jpeg";
+import AI from "../assets/AI.jpg";
 import game from "../assets/game.jpeg";
 import portfolio from "../assets/portfolio.jpeg";
 const projects = [
   {
     id: 1,
     image: AI,
-    name: "Face Recognition Attendance system",
+    name: "Pets Care",
     description:
-      "Full-stack app, python assisted AI based facial recognition attendance system. CMRIT Hackathon project 2021.",
-    link: "https://github.com/Maveric-k07/FaceRecognitionAttendance"
+      "Developed a comprehensive full-stack web application focused on pet care management using react and GCP services.",
+    link: "https://github.com/vaishnavieluru/Pets-Care"
   },
   {
     id: 2,
     image: game,
-    name: "Multiplayer Tic-Tac-Toe",
+    name: "Online Library Management",
     description:
-      "Flutter app with NodeJs backend enabling communication via websockets using SocketIo and mongoDb",
-    link: "https://github.com/Maveric-k07/tictactoe-flutter-frontend"
+      "This project manages and stores book info in Relational Database using PHP and MySQL with CRUD functionality",
+    link: "https://github.com/vaishnavieluru/Online-Library-Management"
   },
   {
     id: 3,
     image: notes,
-    name: "Notes App",
+    name: "Movie Recommendation",
     description:
-      "React app with Django backend to provide and manage REST API.",
-    link: "https://github.com/Maveric-k07/notes-frontend"
+      "It is a movie recommendation application implementing content-based filtering through which we can get movie recommendations.",
+    link: "https://github.com/vaishnavieluru/movie-recommendation"
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const projects = [
     name: "Portfolio site",
     description:
       "Portfolio App using reactjs with HTML CSS Javascript Bootstrap ",
-    link: "https://github.com/Maveric-k07/portfolio-react"
+    link: "https://github.com/vaishnavieluru/portfolio-react"
   }
 ];
 

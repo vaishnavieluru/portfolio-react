@@ -24,11 +24,11 @@ export const frontend = [
         name: 'BootStrap',
         logo: "logos:bootstrap",
     },
-     {
-        id: 6,
-        name: 'Flutter',
-        logo: "logos:flutter",
-    }
+    //  {
+    //     id: 6,
+    //     name: 'Flutter',
+    //     logo: "logos:flutter",
+    // }
 ];
 
 export const backend = [
@@ -42,11 +42,11 @@ export const backend = [
         name: 'Django',
         logo: "logos:django-icon"
     },
-    {
-        id: 3,
-        name: 'Flask',
-        logo: "logos:flask"
-    },
+    // {
+    //     id: 3,
+    //     name: 'Flask',
+    //     logo: "logos:flask"
+    // },
     {
         id: 4,
         name: 'Api',
@@ -74,11 +74,11 @@ export const databases = [
 
 
 export const languages = [
-    {
-        id: 1,
-        name: "Java",
-        logo: "logos:java"
-    },
+    // {
+    //     id: 1,
+    //     name: "Java",
+    //     logo: "logos:java"
+    // },
     {
         id: 2,
         name: "Python",
@@ -94,11 +94,11 @@ export const languages = [
         name: "Javascript",
         logo: "logos:javascript"
     },
-    {
-        id: 5,
-        name: "Dart",
-        logo: "logos:dart"
-    },
+    // {
+    //     id: 5,
+    //     name: "Dart",
+    //     logo: "logos:dart"
+    // },
 ];
 
 export const tools = [
@@ -127,10 +127,10 @@ export const tools = [
         name: "Terminal",
         logo: "bxs:terminal"
     },
-    {
-        id: 6,
-        name: "Code SandBox",
-        logo: "ant-design:code-sandbox-circle-filled"
-    },
+    // {
+    //     id: 6,
+    //     name: "Code SandBox",
+    //     logo: "ant-design:code-sandbox-circle-filled"
+    // },
     
 ]

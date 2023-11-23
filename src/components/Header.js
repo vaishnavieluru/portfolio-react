@@ -126,12 +126,14 @@ export default function Navbar() {
     <section style={myStyle}>
       <header className={navBar ? "nav active" : "nav"}>
         <span class="navbar-brand" href="">
-          <img
+          {/* <img
             src={logo}
-            className="nav-logo"
+            
+          /> */}
+          <h3 className="nav-logo"
             alt="Logo"
             onClick={scrollToTop}
-          />
+            > ELURU SRI VAISHNAVI</h3>
         </span>
         <center className="leftnav">
           <nav className="nav__container__actions ">

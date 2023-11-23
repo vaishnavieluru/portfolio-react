@@ -11,8 +11,7 @@ const Title = () => {
     <div className="container-fluid titleblock">
       <h1 className="titleh1" >Full-stack</h1>
       <h1>
-        <strong className="strong">Web</strong> &{" "}
-        <strong className="strong">Mobile</strong>
+        <strong className="strong">Web</strong>
       </h1>
       <h1>Developer</h1>
       <br />
